@@ -1,0 +1,10 @@
+E:\2019-2020\2eme semestre\c#\tp\Salaire net\Salaire net\bin\Debug\Salaire net.exe.config
+E:\2019-2020\2eme semestre\c#\tp\Salaire net\Salaire net\bin\Debug\Salaire net.exe
+E:\2019-2020\2eme semestre\c#\tp\Salaire net\Salaire net\bin\Debug\Salaire net.pdb
+E:\2019-2020\2eme semestre\c#\tp\Salaire net\Salaire net\obj\Debug\Salaire net.csprojAssemblyReference.cache
+E:\2019-2020\2eme semestre\c#\tp\Salaire net\Salaire net\obj\Debug\Salaire_net.FormSalaireNet.resources
+E:\2019-2020\2eme semestre\c#\tp\Salaire net\Salaire net\obj\Debug\Salaire_net.Properties.Resources.resources
+E:\2019-2020\2eme semestre\c#\tp\Salaire net\Salaire net\obj\Debug\Salaire net.csproj.GenerateResource.cache
+E:\2019-2020\2eme semestre\c#\tp\Salaire net\Salaire net\obj\Debug\Salaire net.exe
+E:\2019-2020\2eme semestre\c#\tp\Salaire net\Salaire net\obj\Debug\Salaire net.pdb
+E:\2019-2020\2eme semestre\c#\tp\Salaire net\Salaire net\obj\Debug\Salaire net.csproj.CoreCompileInputs.cache
